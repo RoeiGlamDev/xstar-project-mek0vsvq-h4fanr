@@ -1,0 +1,51 @@
+{
+  "name": "houseil",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A luxury dark AirBNB website named HouseIL with elegant design.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "next dev --port 3001"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^5.2.0",
+    "styled-components": "^5.3.0",
+    "typescript": "^4.4.2",
+    "next": "^14.2.5"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2",
+    "@types/react-router-dom": "^5.1.7",
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.27.1",
+    "@typescript-eslint/eslint-plugin": "^7.0.0",
+    "@typescript-eslint/parser": "^7.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": [
+    "AirBNB",
+    "luxury",
+    "real estate",
+    "react",
+    "typescript"
+  ],
+  "license": "MIT"
+}
